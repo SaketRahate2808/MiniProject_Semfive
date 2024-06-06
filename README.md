@@ -8,19 +8,6 @@ Provides a user-friendly web interface for entering the required information.
 Displays the prediction result on the web page.
 Utilizes a trained machine learning model to make accurate predictions.
 
-Usage
-----------
-Visit the website: https://diabetescheck.onrender.com
-On the web page, you will find a form requesting information related to pregnancies, glucose level, blood pressure, skin thickness, insulin level, BMI, diabetes pedigree function, and age.
-Enter the required information into the form.
-Click the "Submit" button.
-The Flask server will process the input and use the trained model to make a prediction.
-The prediction result will be displayed on the web page.
-Web Page Video
--------------------
-https://github.com/rudra141/diabetes_prediction_project/assets/111697664/fb1c3786-4ff4-44c7-bfc6-3f525020ce5b
-
-
 Technologies Used
 ----------------------
 Python,
